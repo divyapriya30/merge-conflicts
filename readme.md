@@ -1,3 +1,2 @@
 hello
-coderA change
-coderB change
+coderB new change
